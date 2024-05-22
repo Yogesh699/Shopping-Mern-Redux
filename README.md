@@ -56,7 +56,7 @@ Here's a breakdown of the typical components
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Deployment Link
+## video Link
 [Link](https://drive.google.com/file/d/1AJR7VcNe_TPiQXaNW1A7HF41JARFJXMP/view?usp=sharing)
 
 
