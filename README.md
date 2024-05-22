@@ -55,6 +55,9 @@ Here's a breakdown of the typical components
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Deployed Link
+
+[Link](https://shopping-mern-redux.onrender.com/)
 
 
 
