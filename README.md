@@ -23,7 +23,7 @@ Shop-Shop is a powerful and scalable e-commerce application built using React an
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://drive.google.com/file/d/1nvcdZQWx5Di4Crx_x58uB6GFriLmnnRN/view?usp=sharing))
 
 
 ## Installation
@@ -56,7 +56,5 @@ Here's a breakdown of the typical components
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## video Link
-[Link](https://drive.google.com/file/d/1AJR7VcNe_TPiQXaNW1A7HF41JARFJXMP/view?usp=sharing)
 
 
